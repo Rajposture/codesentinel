@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ VulnScan AI
+# 🛡️ Codesentinel 
 ### Real-Time Automated Security Code Audit & Vulnerability Detection Pipeline
 
 > An automated security engineer that detects vulnerabilities in your code the moment you push — powered by vector semantics over AST, not regex.
